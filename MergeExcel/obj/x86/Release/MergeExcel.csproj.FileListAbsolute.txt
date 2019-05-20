@@ -1,0 +1,11 @@
+D:\MergeExcel\MergeExcel\obj\x86\Release\MergeExcel.csproj.ResolveComReference.cache
+D:\MergeExcel\MergeExcel\bin\Release\MergeExcel.exe
+D:\MergeExcel\MergeExcel\bin\Release\MergeExcel.pdb
+D:\MergeExcel\MergeExcel\bin\Release\EPPlus.dll
+D:\MergeExcel\MergeExcel\bin\Release\EPPlus.xml
+D:\MergeExcel\MergeExcel\obj\x86\Release\MergeExcel.csprojResolveAssemblyReference.cache
+D:\MergeExcel\MergeExcel\obj\x86\Release\MergeExcel.Mergeexcel.resources
+D:\MergeExcel\MergeExcel\obj\x86\Release\MergeExcel.Properties.Resources.resources
+D:\MergeExcel\MergeExcel\obj\x86\Release\MergeExcel.csproj.GenerateResource.Cache
+D:\MergeExcel\MergeExcel\obj\x86\Release\MergeExcel.exe
+D:\MergeExcel\MergeExcel\obj\x86\Release\MergeExcel.pdb
